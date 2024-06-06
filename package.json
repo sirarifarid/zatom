@@ -1,0 +1,29 @@
+{
+  "name": "zatom",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "url": "https://github.com/sirarifarid/zatom"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "keywords": [
+    "atom",
+    "zustand",
+    "zatom",
+    "jotai"
+  ],
+  "devDependencies": {
+    "tsup": "^8.1.0",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "zustand": "^4.5.2"
+  }
+}
