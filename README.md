@@ -61,7 +61,7 @@ To use zatom first create a store with `zatom`
 export const ZT_STORE = zatom(0);
 ```
 
-Now u have create the store with `zatom` u can use `ZT_STORE` to get or set the value use can also pass types here
+Now u have create the store with `zatom` u can use `ZT_STORE` to get or set the value, u can also pass types here
 
 **Passing types**
 
